@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TomCR94, or just Tom
+- 💼 I’m working in a regulated pharmaceutical software company 
+- 🌱 I’m currently learning how to unify the CI flow for a containerised applicaiton
+- 🧠 I’m passionate about pipelining, SDLC, DRY-ing up processes and shifting left
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/thomas-ryan-0a076a139/)
